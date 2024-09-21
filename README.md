@@ -1,4 +1,4 @@
-Cryptocurrency App with Kotlin, Ktor, and Jetpack Compose
+**Cryptocurrency Android App **
 This Android application leverages the power of Kotlin, Ktor, and Jetpack Compose to deliver a robust and efficient cryptocurrency tracking experience.
 
 Key Features:
